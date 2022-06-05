@@ -1,1 +1,1 @@
-this is a read me file
+this is an online clearance system which will allow students to to do their clearance at the confort of their home without needing to travel down to their school 
